@@ -1,0 +1,31 @@
+
+.main{
+    
+    border: 10px solid black;
+} 
+h1{
+    text-align: center;
+    color: white;
+    background-color: maroon;
+}
+.margin{
+    margin: 20px;
+    background-color: pink;
+}
+h2{
+    text-align: center;
+    color: navy;
+}
+.border{
+    margin: 20px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: pink;
+}
+.padding{
+    margin: 20px;
+    padding: 30px;
+    border: 1px solid black;
+    border-radius: 10px;
+    background-color: pink;
+}
